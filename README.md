@@ -1,4 +1,4 @@
-\## Entra ID Lab
+&#x20; ## Entra ID Lab
 
 
 
@@ -34,9 +34,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\## Infrastructure Components
-
-
+\#### Infrastructure Components
 
 \- Microsoft Entra ID Tenant (techcorp365)
 
@@ -50,9 +48,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\## Identity Structure
-
-
+\#### Identity Structure
 
 \- Users are created and managed within the Entra ID tenant
 
@@ -62,9 +58,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\## Security \& Monitoring
-
-
+\#### Security \& Monitoring
 
 \- Authentication is handled through Microsoft Entra ID
 
@@ -158,8 +152,6 @@ This lab demonstrates practical identity and access management in Microsoft Entr
 
 \### Key Skills Demonstrated
 
-
-
 \- Microsoft Entra ID administration  
 
 \- Identity lifecycle management  
@@ -168,5 +160,5 @@ This lab demonstrates practical identity and access management in Microsoft Entr
 
 \- Cloud authentication monitoring  
 
-\- Enterprise identity structure design  
+\- Enterprise identity structure design
 
