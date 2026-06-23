@@ -1,8 +1,8 @@
-&#x20; ## Entra ID Lab
+\# Entra ID Lab
 
 
 
-\### Overview
+\## Overview
 
 This lab demonstrates a Microsoft Entra ID (Azure Active Directory) environment configured to simulate real-world enterprise identity and access management. It focuses on user provisioning, group-based access control, and authentication monitoring.
 
@@ -12,7 +12,7 @@ This lab demonstrates a Microsoft Entra ID (Azure Active Directory) environment 
 
 
 
-\### Objective
+\## Objective
 
 To implement and demonstrate core identity management concepts including user creation, security group configuration, role-based access control (RBAC), and sign-in activity monitoring within Microsoft Entra ID.
 
@@ -22,9 +22,7 @@ To implement and demonstrate core identity management concepts including user cr
 
 
 
-\### Architecture Overview
-
-
+\## Architecture Overview
 
 This lab simulates a cloud-based identity environment using Microsoft Entra ID. It demonstrates how users, groups, and authentication are managed within a modern enterprise tenant.
 
@@ -34,37 +32,37 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\#### Infrastructure Components
+\### Infrastructure Components
 
-\- Microsoft Entra ID Tenant (techcorp365)
+\- Microsoft Entra ID Tenant (techcorp365)  
 
-\- Cloud-based identity and authentication system
+\- Cloud-based identity and authentication system  
 
-\- User accounts for different roles (IT, HR, Finance, Helpdesk)
+\- User accounts for different roles (IT, HR, Finance, Helpdesk)  
 
-\- Security groups for access control
+\- Security groups for access control  
 
-\- Sign-in logs for authentication monitoring
-
-
-
-\#### Identity Structure
-
-\- Users are created and managed within the Entra ID tenant
-
-\- Each user is assigned to specific security groups
-
-\- Groups control access based on role (RBAC model)
+\- Sign-in logs for authentication monitoring  
 
 
 
-\#### Security \& Monitoring
+\### Identity Structure
 
-\- Authentication is handled through Microsoft Entra ID
+\- Users are created and managed within the Entra ID tenant  
 
-\- Sign-in logs track user access and login activity
+\- Each user is assigned to specific security groups  
 
-\- Security groups enforce access control policies
+\- Groups control access based on role (RBAC model)  
+
+
+
+\### Security \& Monitoring
+
+\- Authentication is handled through Microsoft Entra ID  
+
+\- Sign-in logs track user access and login activity  
+
+\- Security groups enforce access control policies  
 
 
 
@@ -72,9 +70,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\### Users
-
-
+\## Users
 
 \- mike.wilson  
 
@@ -96,9 +92,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\### Implementation Steps
-
-
+\## Implementation Steps
 
 1\. Entra ID tenant overview verification  
 
@@ -118,9 +112,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\### Screenshots
-
-
+\## Screenshots
 
 1\. Entra ID dashboard overview  
 
@@ -140,7 +132,7 @@ The environment is built around a single Microsoft Entra ID tenant with multiple
 
 
 
-\### Summary
+\## Summary
 
 This lab demonstrates practical identity and access management in Microsoft Entra ID, including user lifecycle management, role-based access control, and security event monitoring.
 
@@ -150,7 +142,7 @@ This lab demonstrates practical identity and access management in Microsoft Entr
 
 
 
-\### Key Skills Demonstrated
+\## Key Skills Demonstrated
 
 \- Microsoft Entra ID administration  
 
@@ -160,5 +152,5 @@ This lab demonstrates practical identity and access management in Microsoft Entr
 
 \- Cloud authentication monitoring  
 
-\- Enterprise identity structure design
+\- Enterprise identity structure design  
 
